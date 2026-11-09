@@ -1,0 +1,10 @@
+{
+  "extraKnownMarketplaces": {
+    "composio": {
+      "source": { "source": "github", "repo": "ComposioHQ/composio-plugin-cc" }
+    }
+  },
+  "enabledPlugins": {
+    "composio@composio": true
+  }
+}
